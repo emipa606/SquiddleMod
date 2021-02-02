@@ -57,7 +57,11 @@
       <foodType>CarnivoreAnimal</foodType>
       <leatherDef>Leather_Light</leatherDef>
       <wildness>0.75</wildness>
+      <wildBiomes>
+        <TropicalSwamp>1</TropicalSwamp>
+      </wildBiomes>
       <trainability>None</trainability>
+      <meatLabel>squiddle meat</meatLabel>
       <petness>0.08</petness>
       <mateMtbHours>8</mateMtbHours>
       <nuzzleMtbHours>72</nuzzleMtbHours>
@@ -95,6 +99,21 @@
       <soundMeleeHitBuilding>Pawn_Melee_SmallScratch_HitBuilding</soundMeleeHitBuilding>
       <soundMeleeMiss>Pawn_Melee_SmallScratch_Miss</soundMeleeMiss>
     </race>
+    <comps>
+      <li Class="CompProperties_EggLayer">
+        <eggFertilizedDef>EggSquiddleFertilized</eggFertilizedDef>
+        <eggFertilizationCountMax>1</eggFertilizationCountMax>
+        <eggLayIntervalDays>20</eggLayIntervalDays>
+        <eggProgressUnfertilizedMax>0.5</eggProgressUnfertilizedMax>
+        <eggCountRange>1~3</eggCountRange>
+      </li>
+      <li Class="CompProperties_Milkable">
+        <milkDef>SquiddleInk</milkDef>
+        <milkIntervalDays>2</milkIntervalDays>
+        <milkAmount>10</milkAmount>
+        <milkFemaleOnly>false</milkFemaleOnly>
+      </li>
+    </comps>
     <tradeTags>
       <li>AnimalCommon</li>
     </tradeTags>
