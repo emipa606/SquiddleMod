@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef Name="BasePawn" Abstract="True">
     <thingClass>Pawn</thingClass>
@@ -58,5 +58,6 @@
       <li>Anesthetize</li>
     </recipes>
   </ThingDef>
-  <PawnKindDef Name="AnimalKindBase" Abstract="True"></PawnKindDef>
+  <PawnKindDef Name="AnimalKindBase" Abstract="True">
+  </PawnKindDef>
 </Defs>

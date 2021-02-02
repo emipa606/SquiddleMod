@@ -1,7 +1,8 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
- <PawnKindDef Name="AnimalBase10" Abstract="True"></PawnKindDef>
-	<PawnKindDef ParentName="AnimalBase10">
+  <PawnKindDef Name="AnimalBase10" Abstract="True">
+  </PawnKindDef>
+  <PawnKindDef ParentName="AnimalBase10">
     <defName>Squiddle</defName>
     <label>squiddle</label>
     <race>Squiddle</race>
