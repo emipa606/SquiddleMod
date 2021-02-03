@@ -1,26 +1,27 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="BaseSquiddle">
-    <defName>Squiddle</defName>
-    <label>Common Squiddle</label>
-    <description>A common squiddling</description>
+    <defName>PolarSquiddle</defName>
+    <label>Polar Squiddle</label>
+    <description>A polar squiddling</description>
     <statBases>
       <MoveSpeed>1.75</MoveSpeed>
-      <ComfyTemperatureMin>-5</ComfyTemperatureMin>
+      <ComfyTemperatureMin>-40</ComfyTemperatureMin>
+      <ComfyTemperatureMax>20</ComfyTemperatureMax>
       <MarketValue>200</MarketValue>
     </statBases>
     <race>
-      <baseBodySize>0.5</baseBodySize>
-      <baseHealthScale>2.0</baseHealthScale>
+      <baseBodySize>0.7</baseBodySize>
+      <baseHealthScale>2.5</baseHealthScale>
       <wildBiomes>
-        <TemperateSwamp>1</TemperateSwamp>
+        <ColdBog>1</ColdBog>
       </wildBiomes>
     </race>
     <comps>
       <li Class="CompProperties_Milkable">
         <milkDef>SquiddleInk</milkDef>
-        <milkIntervalDays>2</milkIntervalDays>
-        <milkAmount>10</milkAmount>
+        <milkIntervalDays>3</milkIntervalDays>
+        <milkAmount>15</milkAmount>
         <milkFemaleOnly>false</milkFemaleOnly>
       </li>
     </comps>

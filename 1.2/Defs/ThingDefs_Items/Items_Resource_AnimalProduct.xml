@@ -42,4 +42,15 @@
       </li>
     </comps>
   </ThingDef>
+  <ThingDef ParentName="LeatherBase">
+    <defName>Leather_Squiddle</defName>
+    <label>squiddle leather</label>
+    <graphicData>
+      <color>(20,20,20)</color>
+    </graphicData>
+    <stuffProps>
+      <color>(20,20,20)</color>
+      <commonality>0.075</commonality>
+    </stuffProps>
+  </ThingDef>
 </Defs>
