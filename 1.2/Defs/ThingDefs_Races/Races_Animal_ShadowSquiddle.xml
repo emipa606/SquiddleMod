@@ -3,7 +3,7 @@
   <ThingDef ParentName="BaseSquiddle">
     <defName>ShadowSquiddle</defName>
     <label>Shadow Squiddle</label>
-    <description>A shadow squiddling</description>
+    <description>The Shadow Squiddle is a small black squiddle that lives in tropical swamps. They hunt fish and have a toxic bite. Like all Squiddles they are "milked" for their ink.</description>
     <tools>
       <li>
         <label>squiddle venom</label>
@@ -59,6 +59,7 @@
       <MarketValue>200</MarketValue>
     </statBases>
     <race>
+      <useMeatFrom>Squiddle</useMeatFrom>
       <baseBodySize>0.4</baseBodySize>
       <baseHealthScale>2.0</baseHealthScale>
       <wildBiomes>

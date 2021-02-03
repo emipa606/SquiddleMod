@@ -1,21 +1,20 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Defs>
   <ThingDef ParentName="BaseSquiddle">
-    <defName>Squiddle</defName>
-    <label>Common Squiddle</label>
-    <description>The Common Squiddle is a redish squiddle that lives in Temperate Swamps. They were the orginal squiddle which is a GMO squid. Like all Squiddles they are "milked" for their ink.</description>
+    <defName>CaveSquiddle</defName>
+    <label>Cave Squiddle</label>
+    <description>The Cave Squiddle is a pale squiddle that lives in caves. They are blind and eat fungi. Like all Squiddles they are "milked" for their ink.</description>
     <statBases>
       <MoveSpeed>1.75</MoveSpeed>
       <ComfyTemperatureMin>-5</ComfyTemperatureMin>
       <MarketValue>200</MarketValue>
     </statBases>
     <race>
-      <meatLabel>squiddle meat</meatLabel>
+      <body>BlindCephalopodAnimal</body>
+      <useMeatFrom>Squiddle</useMeatFrom>
       <baseBodySize>0.5</baseBodySize>
       <baseHealthScale>2.0</baseHealthScale>
-      <wildBiomes>
-        <TemperateSwamp>1</TemperateSwamp>
-      </wildBiomes>
+      <foodType>OmnivoreRoughAnimal</foodType>
     </race>
     <comps>
       <li Class="CompProperties_Milkable">

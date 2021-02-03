@@ -4,14 +4,28 @@
     <mods>
       <li>Animals Forage</li>
     </mods>
-    <match Class="PatchOperationAdd">
-      <xpath>/Defs/ThingDef[@Name="BaseSquiddle"]/comps</xpath>
-      <value>
-        <li Class="AnimalBehaviours.CompProperties_DigWhenHungry">
-          <customThingToDig>AEXP_RawFish</customThingToDig>
-          <customAmountToDig>3</customAmountToDig>
+    <match Class="PatchOperationSequence">
+      <success>Always</success>
+      <operations>
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/ThingDef[defName="Squiddle" or defName="IslandSquiddle" or defName="PolarSquiddle" or defName="ShadowSquiddle"]/comps</xpath>
+          <value>
+            <li Class="AnimalBehaviours.CompProperties_DigWhenHungry">
+              <customThingToDig>AEXP_RawFish</customThingToDig>
+              <customAmountToDig>3</customAmountToDig>
+            </li>
+          </value>
         </li>
-      </value>
+        <li Class="PatchOperationAdd">
+          <xpath>/Defs/ThingDef[defName="MycoticSquiddle" or defName="CaveSquiddle"]/comps</xpath>
+          <value>
+            <li Class="AnimalBehaviours.CompProperties_DigWhenHungry">
+              <customThingToDig>RawFungus</customThingToDig>
+              <customAmountToDig>10</customAmountToDig>
+            </li>
+          </value>
+        </li>
+      </operations>
     </match>
   </Operation>
 </Patch>
