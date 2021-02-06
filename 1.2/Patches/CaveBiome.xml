@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>CaveBiome (Continued)</li>
+    </mods>
+    <match Class="PatchOperationAdd">
+      <xpath>/Defs/ThingDef[defName="CaveSquiddle"]/race</xpath>
+      <value>
+        <wildBiomes>
+          <Cave>1</Cave>
+        </wildBiomes>
+      </value>
+    </match>
+  </Operation>
+</Patch>
