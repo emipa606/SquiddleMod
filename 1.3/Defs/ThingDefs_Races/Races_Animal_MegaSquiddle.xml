@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="BaseSquiddle">
+    <defName>MegaSquiddle</defName>
+    <label>Mega Squiddle</label>
+    <description>The Megasquiddle is a huge greenish squiddle that live in the Tropical Rainforest. They are herbivores. Like all Squiddles they are "milked" for their ink.</description>
+    <statBases>
+      <MoveSpeed>1.75</MoveSpeed>
+      <ComfyTemperatureMin>0</ComfyTemperatureMin>
+      <ComfyTemperatureMax>50</ComfyTemperatureMax>
+      <MarketValue>200</MarketValue>
+    </statBases>
+    <race>
+      <useMeatFrom>Squiddle</useMeatFrom>
+      <baseBodySize>1</baseBodySize>
+      <baseHealthScale>3</baseHealthScale>
+      <foodType>VegetarianRoughAnimal</foodType>
+      <wildBiomes>
+        <TropicalRainforest>1</TropicalRainforest>
+      </wildBiomes>
+    </race>
+    <comps>
+      <li Class="CompProperties_Milkable">
+        <milkDef>SquiddleInk</milkDef>
+        <milkIntervalDays>3</milkIntervalDays>
+        <milkAmount>20</milkAmount>
+        <milkFemaleOnly>false</milkFemaleOnly>
+      </li>
+    </comps>
+    <tradeTags>
+      <li>AnimalCommon</li>
+    </tradeTags>
+  </ThingDef>
+</Defs>
