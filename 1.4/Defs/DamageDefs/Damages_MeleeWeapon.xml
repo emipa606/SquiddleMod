@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <DamageDef ParentName="Bite">
+    <defName>SquiddleVenom</defName>
+    <label>squiddle venom</label>
+    <additionalHediffs>
+      <li>
+        <hediff>SquiddleVenom</hediff>
+        <severityPerDamageDealt>0.05</severityPerDamageDealt>
+        <victimSeverityScaling>ToxicResistance</victimSeverityScaling>
+      </li>
+    </additionalHediffs>
+  </DamageDef>
+</Defs>

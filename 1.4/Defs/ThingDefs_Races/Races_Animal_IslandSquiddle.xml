@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="BaseSquiddle">
+    <defName>IslandSquiddle</defName>
+    <label>Island Squiddle</label>
+    <description>The Island Squiddle is a tiny golden squidle that lives on islands and atolls. They hunt fish. Like all Squiddles they are "milked" for their ink.</description>
+    <statBases>
+      <MoveSpeed>1.75</MoveSpeed>
+      <ComfyTemperatureMin>10</ComfyTemperatureMin>
+      <ComfyTemperatureMax>60</ComfyTemperatureMax>
+      <MarketValue>200</MarketValue>
+    </statBases>
+    <race>
+      <useMeatFrom>Squiddle</useMeatFrom>
+      <baseBodySize>0.2</baseBodySize>
+      <baseHealthScale>2.0</baseHealthScale>
+    </race>
+    <comps>
+      <li Class="CompProperties_Milkable">
+        <milkDef>SquiddleInk</milkDef>
+        <milkIntervalDays>2</milkIntervalDays>
+        <milkAmount>5</milkAmount>
+        <milkFemaleOnly>false</milkFemaleOnly>
+      </li>
+    </comps>
+    <tradeTags>
+      <li>AnimalCommon</li>
+    </tradeTags>
+  </ThingDef>
+</Defs>
