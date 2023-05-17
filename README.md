@@ -48,3 +48,4 @@ Adds Squiddles To the Game
 
 
 
+https://steamcommunity.com/sharedfiles/filedetails/changelog/2382021844]Last updated 2023-05-17
