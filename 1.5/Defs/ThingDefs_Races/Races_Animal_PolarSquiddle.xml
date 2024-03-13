@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="BaseSquiddle">
+    <defName>PolarSquiddle</defName>
+    <label>Polar Squiddle</label>
+    <description>The Polar Squiddle is a large blueish squiddle that lives in Cold Bogs. They hunt fish. Like all Squiddles they are "milked" for their ink.</description>
+    <statBases>
+      <MoveSpeed>1.75</MoveSpeed>
+      <ComfyTemperatureMin>-40</ComfyTemperatureMin>
+      <ComfyTemperatureMax>20</ComfyTemperatureMax>
+      <MarketValue>200</MarketValue>
+    </statBases>
+    <race>
+      <useMeatFrom>Squiddle</useMeatFrom>
+      <baseBodySize>0.7</baseBodySize>
+      <baseHealthScale>2.5</baseHealthScale>
+      <wildBiomes>
+        <ColdBog>1</ColdBog>
+      </wildBiomes>
+    </race>
+    <comps>
+      <li Class="CompProperties_Milkable">
+        <milkDef>SquiddleInk</milkDef>
+        <milkIntervalDays>3</milkIntervalDays>
+        <milkAmount>15</milkAmount>
+        <milkFemaleOnly>false</milkFemaleOnly>
+      </li>
+      <li Class="CompProperties_EggLayer">
+        <eggFertilizedDef>EggPolarSquiddleFertilized</eggFertilizedDef>
+        <eggFertilizationCountMax>1</eggFertilizationCountMax>
+        <eggLayIntervalDays>20</eggLayIntervalDays>
+        <eggProgressUnfertilizedMax>0.5</eggProgressUnfertilizedMax>
+        <eggCountRange>1~3</eggCountRange>
+      </li>
+    </comps>
+    <tradeTags>
+      <li>AnimalCommon</li>
+    </tradeTags>
+  </ThingDef>
+</Defs>

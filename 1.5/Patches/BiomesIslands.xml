@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationFindMod">
+    <mods>
+      <li>Biomes! Islands</li>
+    </mods>
+    <match Class="PatchOperationAdd">
+      <xpath>/Defs/ThingDef[defName="IslandSquiddle"]/race</xpath>
+      <value>
+        <wildBiomes>
+          <BiomesIslands_TropicalIsland>1</BiomesIslands_TropicalIsland>
+          <BiomesIslands_Atoll>1</BiomesIslands_Atoll>
+        </wildBiomes>
+      </value>
+    </match>
+  </Operation>
+</Patch>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Patch>
+  <Operation Class="PatchOperationSequence">
+    <success>Always</success>
+    <operations>
+      <li Class="PatchOperationTest">
+        <xpath>/Defs/HediffDef[defName = "GutWorms"]/comps/li[@Class = "HediffCompProperties_Immunizable"]</xpath>
+        <success>Invert</success>
+      </li>
+      <li Class="PatchOperationAdd">
+        <xpath>/Defs/HediffDef[defName = "GutWorms"]/comps</xpath>
+        <value>
+          <li Class="HediffCompProperties_Immunizable">
+          </li>
+        </value>
+      </li>
+    </operations>
+  </Operation>
+</Patch>
