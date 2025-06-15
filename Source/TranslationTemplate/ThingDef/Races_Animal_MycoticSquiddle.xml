@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Mycotic Squiddle -->
+  <MycoticSquiddle.label>Mycotic Squiddle</MycoticSquiddle.label>
+  <!-- EN: The Mycotic Squiddle is a violet squiddle that lives in Mycotic Jungles. They eat fungi. Like all Squiddles they are "milked" for their ink. -->
+  <MycoticSquiddle.description>The Mycotic Squiddle is a violet squiddle that lives in Mycotic Jungles. They eat fungi. Like all Squiddles they are "milked" for their ink.</MycoticSquiddle.description>
+  <!-- EN: head -->
+  <MycoticSquiddle.tools.head.label>head</MycoticSquiddle.tools.head.label>
+</LanguageData>

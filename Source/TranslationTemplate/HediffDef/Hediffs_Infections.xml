@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: squiddle venom -->
+  <SquiddleVenom.label>squiddle venom</SquiddleVenom.label>
+  <!-- EN: Venom that has begun to build up in the bloodstream due to a squiddle attack and can be fatal if left untreated. -->
+  <SquiddleVenom.description>Venom that has begun to build up in the bloodstream due to a squiddle attack and can be fatal if left untreated.</SquiddleVenom.description>
+  <!-- EN: initial -->
+  <SquiddleVenom.stages.initial-0.label>initial</SquiddleVenom.stages.initial-0.label>
+  <!-- EN: initial -->
+  <SquiddleVenom.stages.initial-1.label>initial</SquiddleVenom.stages.initial-1.label>
+  <!-- EN: minor -->
+  <SquiddleVenom.stages.minor.label>minor</SquiddleVenom.stages.minor.label>
+  <!-- EN: moderate -->
+  <SquiddleVenom.stages.moderate.label>moderate</SquiddleVenom.stages.moderate.label>
+  <!-- EN: serious -->
+  <SquiddleVenom.stages.serious.label>serious</SquiddleVenom.stages.serious.label>
+  <!-- EN: extreme -->
+  <SquiddleVenom.stages.extreme.label>extreme</SquiddleVenom.stages.extreme.label>
+</LanguageData>

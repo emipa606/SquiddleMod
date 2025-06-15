@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: blind cephalopod animal -->
+  <BlindCephalopodAnimal.label>blind cephalopod animal</BlindCephalopodAnimal.label>
+  <!-- EN: upper body -->
+  <BlindCephalopodAnimal.corePart.parts.upper_body.customLabel>upper body</BlindCephalopodAnimal.corePart.parts.upper_body.customLabel>
+  <!-- EN: mouth -->
+  <BlindCephalopodAnimal.corePart.parts.upper_body.parts.mouth.customLabel>mouth</BlindCephalopodAnimal.corePart.parts.upper_body.parts.mouth.customLabel>
+  <!-- EN: teeth -->
+  <BlindCephalopodAnimal.corePart.parts.upper_body.parts.mouth.parts.teeth.customLabel>teeth</BlindCephalopodAnimal.corePart.parts.upper_body.parts.mouth.parts.teeth.customLabel>
+  <!-- EN: left gill -->
+  <BlindCephalopodAnimal.corePart.parts.upper_body.parts.left_gill.customLabel>left gill</BlindCephalopodAnimal.corePart.parts.upper_body.parts.left_gill.customLabel>
+  <!-- EN: right gill -->
+  <BlindCephalopodAnimal.corePart.parts.upper_body.parts.right_gill.customLabel>right gill</BlindCephalopodAnimal.corePart.parts.upper_body.parts.right_gill.customLabel>
+  <!-- EN: left fin -->
+  <BlindCephalopodAnimal.corePart.parts.upper_body.parts.left_fin.customLabel>left fin</BlindCephalopodAnimal.corePart.parts.upper_body.parts.left_fin.customLabel>
+  <!-- EN: right fin -->
+  <BlindCephalopodAnimal.corePart.parts.upper_body.parts.right_fin.customLabel>right fin</BlindCephalopodAnimal.corePart.parts.upper_body.parts.right_fin.customLabel>
+  <!-- EN: gonad -->
+  <BlindCephalopodAnimal.corePart.parts.upper_body.parts.gonad.customLabel>gonad</BlindCephalopodAnimal.corePart.parts.upper_body.parts.gonad.customLabel>
+  <!-- EN: pen -->
+  <BlindCephalopodAnimal.corePart.parts.upper_body.parts.pen.customLabel>pen</BlindCephalopodAnimal.corePart.parts.upper_body.parts.pen.customLabel>
+  <!-- EN: ink sac -->
+  <BlindCephalopodAnimal.corePart.parts.upper_body.parts.ink_sac.customLabel>ink sac</BlindCephalopodAnimal.corePart.parts.upper_body.parts.ink_sac.customLabel>
+  <!-- EN: esophagus -->
+  <BlindCephalopodAnimal.corePart.parts.upper_body.parts.esophagus.customLabel>esophagus</BlindCephalopodAnimal.corePart.parts.upper_body.parts.esophagus.customLabel>
+  <!-- EN: lower body -->
+  <BlindCephalopodAnimal.corePart.parts.lower_body.customLabel>lower body</BlindCephalopodAnimal.corePart.parts.lower_body.customLabel>
+  <!-- EN: tentacle -->
+  <BlindCephalopodAnimal.corePart.parts.lower_body.parts.tentacle-0.customLabel>tentacle</BlindCephalopodAnimal.corePart.parts.lower_body.parts.tentacle-0.customLabel>
+  <!-- EN: left tentacle club -->
+  <BlindCephalopodAnimal.corePart.parts.lower_body.parts.tentacle-0.parts.left_tentacle_club.customLabel>left tentacle club</BlindCephalopodAnimal.corePart.parts.lower_body.parts.tentacle-0.parts.left_tentacle_club.customLabel>
+  <!-- EN: tentacle -->
+  <BlindCephalopodAnimal.corePart.parts.lower_body.parts.tentacle-1.customLabel>tentacle</BlindCephalopodAnimal.corePart.parts.lower_body.parts.tentacle-1.customLabel>
+  <!-- EN: right tentacle club -->
+  <BlindCephalopodAnimal.corePart.parts.lower_body.parts.tentacle-1.parts.right_tentacle_club.customLabel>right tentacle club</BlindCephalopodAnimal.corePart.parts.lower_body.parts.tentacle-1.parts.right_tentacle_club.customLabel>
+  <!-- EN: tentacle -->
+  <BlindCephalopodAnimal.corePart.parts.lower_body.parts.tentacle-2.customLabel>tentacle</BlindCephalopodAnimal.corePart.parts.lower_body.parts.tentacle-2.customLabel>
+  <!-- EN: tentacle spike -->
+  <BlindCephalopodAnimal.corePart.parts.lower_body.parts.tentacle-2.parts.tentacle_spike.customLabel>tentacle spike</BlindCephalopodAnimal.corePart.parts.lower_body.parts.tentacle-2.parts.tentacle_spike.customLabel>
+  <!-- EN: tentacle -->
+  <BlindCephalopodAnimal.corePart.parts.lower_body.parts.tentacle-3.customLabel>tentacle</BlindCephalopodAnimal.corePart.parts.lower_body.parts.tentacle-3.customLabel>
+  <!-- EN: tentacle spike -->
+  <BlindCephalopodAnimal.corePart.parts.lower_body.parts.tentacle-3.parts.tentacle_spike.customLabel>tentacle spike</BlindCephalopodAnimal.corePart.parts.lower_body.parts.tentacle-3.parts.tentacle_spike.customLabel>
+  <!-- EN: tentacle -->
+  <BlindCephalopodAnimal.corePart.parts.lower_body.parts.tentacle-4.customLabel>tentacle</BlindCephalopodAnimal.corePart.parts.lower_body.parts.tentacle-4.customLabel>
+  <!-- EN: tentacle spike -->
+  <BlindCephalopodAnimal.corePart.parts.lower_body.parts.tentacle-4.parts.tentacle_spike.customLabel>tentacle spike</BlindCephalopodAnimal.corePart.parts.lower_body.parts.tentacle-4.parts.tentacle_spike.customLabel>
+  <!-- EN: tentacle -->
+  <BlindCephalopodAnimal.corePart.parts.lower_body.parts.tentacle-5.customLabel>tentacle</BlindCephalopodAnimal.corePart.parts.lower_body.parts.tentacle-5.customLabel>
+  <!-- EN: tentacle spike -->
+  <BlindCephalopodAnimal.corePart.parts.lower_body.parts.tentacle-5.parts.tentacle_spike.customLabel>tentacle spike</BlindCephalopodAnimal.corePart.parts.lower_body.parts.tentacle-5.parts.tentacle_spike.customLabel>
+  <!-- EN: tentacle -->
+  <BlindCephalopodAnimal.corePart.parts.lower_body.parts.tentacle-6.customLabel>tentacle</BlindCephalopodAnimal.corePart.parts.lower_body.parts.tentacle-6.customLabel>
+  <!-- EN: tentacle spike -->
+  <BlindCephalopodAnimal.corePart.parts.lower_body.parts.tentacle-6.parts.tentacle_spike.customLabel>tentacle spike</BlindCephalopodAnimal.corePart.parts.lower_body.parts.tentacle-6.parts.tentacle_spike.customLabel>
+  <!-- EN: tentacle -->
+  <BlindCephalopodAnimal.corePart.parts.lower_body.parts.tentacle-7.customLabel>tentacle</BlindCephalopodAnimal.corePart.parts.lower_body.parts.tentacle-7.customLabel>
+  <!-- EN: tentacle spike -->
+  <BlindCephalopodAnimal.corePart.parts.lower_body.parts.tentacle-7.parts.tentacle_spike.customLabel>tentacle spike</BlindCephalopodAnimal.corePart.parts.lower_body.parts.tentacle-7.parts.tentacle_spike.customLabel>
+  <!-- EN: cephalopod animal -->
+  <CephalopodAnimal.label>cephalopod animal</CephalopodAnimal.label>
+  <!-- EN: upper body -->
+  <CephalopodAnimal.corePart.parts.upper_body.customLabel>upper body</CephalopodAnimal.corePart.parts.upper_body.customLabel>
+  <!-- EN: mouth -->
+  <CephalopodAnimal.corePart.parts.upper_body.parts.mouth.customLabel>mouth</CephalopodAnimal.corePart.parts.upper_body.parts.mouth.customLabel>
+  <!-- EN: teeth -->
+  <CephalopodAnimal.corePart.parts.upper_body.parts.mouth.parts.teeth.customLabel>teeth</CephalopodAnimal.corePart.parts.upper_body.parts.mouth.parts.teeth.customLabel>
+  <!-- EN: left eye -->
+  <CephalopodAnimal.corePart.parts.upper_body.parts.left_eye.customLabel>left eye</CephalopodAnimal.corePart.parts.upper_body.parts.left_eye.customLabel>
+  <!-- EN: right eye -->
+  <CephalopodAnimal.corePart.parts.upper_body.parts.right_eye.customLabel>right eye</CephalopodAnimal.corePart.parts.upper_body.parts.right_eye.customLabel>
+  <!-- EN: left gill -->
+  <CephalopodAnimal.corePart.parts.upper_body.parts.left_gill.customLabel>left gill</CephalopodAnimal.corePart.parts.upper_body.parts.left_gill.customLabel>
+  <!-- EN: right gill -->
+  <CephalopodAnimal.corePart.parts.upper_body.parts.right_gill.customLabel>right gill</CephalopodAnimal.corePart.parts.upper_body.parts.right_gill.customLabel>
+  <!-- EN: left fin -->
+  <CephalopodAnimal.corePart.parts.upper_body.parts.left_fin.customLabel>left fin</CephalopodAnimal.corePart.parts.upper_body.parts.left_fin.customLabel>
+  <!-- EN: right fin -->
+  <CephalopodAnimal.corePart.parts.upper_body.parts.right_fin.customLabel>right fin</CephalopodAnimal.corePart.parts.upper_body.parts.right_fin.customLabel>
+  <!-- EN: gonad -->
+  <CephalopodAnimal.corePart.parts.upper_body.parts.gonad.customLabel>gonad</CephalopodAnimal.corePart.parts.upper_body.parts.gonad.customLabel>
+  <!-- EN: pen -->
+  <CephalopodAnimal.corePart.parts.upper_body.parts.pen.customLabel>pen</CephalopodAnimal.corePart.parts.upper_body.parts.pen.customLabel>
+  <!-- EN: ink sac -->
+  <CephalopodAnimal.corePart.parts.upper_body.parts.ink_sac.customLabel>ink sac</CephalopodAnimal.corePart.parts.upper_body.parts.ink_sac.customLabel>
+  <!-- EN: esophagus -->
+  <CephalopodAnimal.corePart.parts.upper_body.parts.esophagus.customLabel>esophagus</CephalopodAnimal.corePart.parts.upper_body.parts.esophagus.customLabel>
+  <!-- EN: lower body -->
+  <CephalopodAnimal.corePart.parts.lower_body.customLabel>lower body</CephalopodAnimal.corePart.parts.lower_body.customLabel>
+  <!-- EN: tentacle -->
+  <CephalopodAnimal.corePart.parts.lower_body.parts.tentacle-0.customLabel>tentacle</CephalopodAnimal.corePart.parts.lower_body.parts.tentacle-0.customLabel>
+  <!-- EN: left tentacle club -->
+  <CephalopodAnimal.corePart.parts.lower_body.parts.tentacle-0.parts.left_tentacle_club.customLabel>left tentacle club</CephalopodAnimal.corePart.parts.lower_body.parts.tentacle-0.parts.left_tentacle_club.customLabel>
+  <!-- EN: tentacle -->
+  <CephalopodAnimal.corePart.parts.lower_body.parts.tentacle-1.customLabel>tentacle</CephalopodAnimal.corePart.parts.lower_body.parts.tentacle-1.customLabel>
+  <!-- EN: right tentacle club -->
+  <CephalopodAnimal.corePart.parts.lower_body.parts.tentacle-1.parts.right_tentacle_club.customLabel>right tentacle club</CephalopodAnimal.corePart.parts.lower_body.parts.tentacle-1.parts.right_tentacle_club.customLabel>
+  <!-- EN: tentacle -->
+  <CephalopodAnimal.corePart.parts.lower_body.parts.tentacle-2.customLabel>tentacle</CephalopodAnimal.corePart.parts.lower_body.parts.tentacle-2.customLabel>
+  <!-- EN: tentacle spike -->
+  <CephalopodAnimal.corePart.parts.lower_body.parts.tentacle-2.parts.tentacle_spike.customLabel>tentacle spike</CephalopodAnimal.corePart.parts.lower_body.parts.tentacle-2.parts.tentacle_spike.customLabel>
+  <!-- EN: tentacle -->
+  <CephalopodAnimal.corePart.parts.lower_body.parts.tentacle-3.customLabel>tentacle</CephalopodAnimal.corePart.parts.lower_body.parts.tentacle-3.customLabel>
+  <!-- EN: tentacle spike -->
+  <CephalopodAnimal.corePart.parts.lower_body.parts.tentacle-3.parts.tentacle_spike.customLabel>tentacle spike</CephalopodAnimal.corePart.parts.lower_body.parts.tentacle-3.parts.tentacle_spike.customLabel>
+  <!-- EN: tentacle -->
+  <CephalopodAnimal.corePart.parts.lower_body.parts.tentacle-4.customLabel>tentacle</CephalopodAnimal.corePart.parts.lower_body.parts.tentacle-4.customLabel>
+  <!-- EN: tentacle spike -->
+  <CephalopodAnimal.corePart.parts.lower_body.parts.tentacle-4.parts.tentacle_spike.customLabel>tentacle spike</CephalopodAnimal.corePart.parts.lower_body.parts.tentacle-4.parts.tentacle_spike.customLabel>
+  <!-- EN: tentacle -->
+  <CephalopodAnimal.corePart.parts.lower_body.parts.tentacle-5.customLabel>tentacle</CephalopodAnimal.corePart.parts.lower_body.parts.tentacle-5.customLabel>
+  <!-- EN: tentacle spike -->
+  <CephalopodAnimal.corePart.parts.lower_body.parts.tentacle-5.parts.tentacle_spike.customLabel>tentacle spike</CephalopodAnimal.corePart.parts.lower_body.parts.tentacle-5.parts.tentacle_spike.customLabel>
+  <!-- EN: tentacle -->
+  <CephalopodAnimal.corePart.parts.lower_body.parts.tentacle-6.customLabel>tentacle</CephalopodAnimal.corePart.parts.lower_body.parts.tentacle-6.customLabel>
+  <!-- EN: tentacle spike -->
+  <CephalopodAnimal.corePart.parts.lower_body.parts.tentacle-6.parts.tentacle_spike.customLabel>tentacle spike</CephalopodAnimal.corePart.parts.lower_body.parts.tentacle-6.parts.tentacle_spike.customLabel>
+  <!-- EN: tentacle -->
+  <CephalopodAnimal.corePart.parts.lower_body.parts.tentacle-7.customLabel>tentacle</CephalopodAnimal.corePart.parts.lower_body.parts.tentacle-7.customLabel>
+  <!-- EN: tentacle spike -->
+  <CephalopodAnimal.corePart.parts.lower_body.parts.tentacle-7.parts.tentacle_spike.customLabel>tentacle spike</CephalopodAnimal.corePart.parts.lower_body.parts.tentacle-7.parts.tentacle_spike.customLabel>
+</LanguageData>

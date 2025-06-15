@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Island Squiddle -->
+  <IslandSquiddle.label>Island Squiddle</IslandSquiddle.label>
+  <!-- EN: The Island Squiddle is a tiny golden squidle that lives on islands and atolls. They hunt fish. Like all Squiddles they are "milked" for their ink. -->
+  <IslandSquiddle.description>The Island Squiddle is a tiny golden squidle that lives on islands and atolls. They hunt fish. Like all Squiddles they are "milked" for their ink.</IslandSquiddle.description>
+  <!-- EN: head -->
+  <IslandSquiddle.tools.head.label>head</IslandSquiddle.tools.head.label>
+</LanguageData>

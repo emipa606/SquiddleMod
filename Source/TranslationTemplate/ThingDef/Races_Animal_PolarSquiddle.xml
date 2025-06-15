@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Polar Squiddle -->
+  <PolarSquiddle.label>Polar Squiddle</PolarSquiddle.label>
+  <!-- EN: The Polar Squiddle is a large blueish squiddle that lives in Cold Bogs. They hunt fish. Like all Squiddles they are "milked" for their ink. -->
+  <PolarSquiddle.description>The Polar Squiddle is a large blueish squiddle that lives in Cold Bogs. They hunt fish. Like all Squiddles they are "milked" for their ink.</PolarSquiddle.description>
+  <!-- EN: head -->
+  <PolarSquiddle.tools.head.label>head</PolarSquiddle.tools.head.label>
+</LanguageData>

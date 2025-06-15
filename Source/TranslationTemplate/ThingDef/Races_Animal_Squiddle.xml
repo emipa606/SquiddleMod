@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: Common Squiddle -->
+  <Squiddle.label>Common Squiddle</Squiddle.label>
+  <!-- EN: The Common Squiddle is a redish squiddle that lives in Temperate Swamps. They were the orginal squiddle which is a GMO squid. Like all Squiddles they are "milked" for their ink. -->
+  <Squiddle.description>The Common Squiddle is a redish squiddle that lives in Temperate Swamps. They were the orginal squiddle which is a GMO squid. Like all Squiddles they are "milked" for their ink.</Squiddle.description>
+  <!-- EN: squiddle meat -->
+  <Squiddle.race.meatLabel>squiddle meat</Squiddle.race.meatLabel>
+  <!-- EN: head -->
+  <Squiddle.tools.head.label>head</Squiddle.tools.head.label>
+</LanguageData>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: cephalopod esophagus -->
+  <CephalopodEsophagus.label>cephalopod esophagus</CephalopodEsophagus.label>
+  <!-- EN: fin -->
+  <CephalopodFin.label>fin</CephalopodFin.label>
+  <!-- EN: gill -->
+  <CephalopodGill.label>gill</CephalopodGill.label>
+  <!-- EN: gonad -->
+  <CephalopodGonad.label>gonad</CephalopodGonad.label>
+  <!-- EN: ink sac -->
+  <CephalopodInkSac.label>ink sac</CephalopodInkSac.label>
+  <!-- EN: lower body -->
+  <CephalopodLowerBody.label>lower body</CephalopodLowerBody.label>
+  <!-- EN: cephalopod mouth -->
+  <CephalopodMouth.label>cephalopod mouth</CephalopodMouth.label>
+  <!-- EN: pen -->
+  <CephalopodPen.label>pen</CephalopodPen.label>
+  <!-- EN: cephalopod teeth -->
+  <CephalopodTeeth.label>cephalopod teeth</CephalopodTeeth.label>
+  <!-- EN: tentacle -->
+  <CephalopodTentacle.label>tentacle</CephalopodTentacle.label>
+  <!-- EN: tentacle club -->
+  <CephalopodTentacleClub.label>tentacle club</CephalopodTentacleClub.label>
+  <!-- EN: tentacle spike -->
+  <CephalopodTentacleSpike.label>tentacle spike</CephalopodTentacleSpike.label>
+  <!-- EN: cephalopod upper body -->
+  <CephalopodUpperBody.label>cephalopod upper body</CephalopodUpperBody.label>
+</LanguageData>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: cave squiddle egg (fert.) -->
+  <EggCaveSquiddleFertilized.label>cave squiddle egg (fert.)</EggCaveSquiddleFertilized.label>
+  <!-- EN: A fertilized cave squiddle egg. If all goes well, it should hatch into a baby cave squiddle. It can be eaten raw, but it's much better cooked. -->
+  <EggCaveSquiddleFertilized.description>A fertilized cave squiddle egg. If all goes well, it should hatch into a baby cave squiddle. It can be eaten raw, but it's much better cooked.</EggCaveSquiddleFertilized.description>
+  <!-- EN: cave squiddle egg (unfert.) -->
+  <EggCaveSquiddleUnFertilized.label>cave squiddle egg (unfert.)</EggCaveSquiddleUnFertilized.label>
+  <!-- EN: An unfertilized cave squiddle egg. It can be eaten raw, but it's much better cooked. -->
+  <EggCaveSquiddleUnFertilized.description>An unfertilized cave squiddle egg. It can be eaten raw, but it's much better cooked.</EggCaveSquiddleUnFertilized.description>
+  <!-- EN: island squiddle egg (fert.) -->
+  <EggIslandSquiddleFertilized.label>island squiddle egg (fert.)</EggIslandSquiddleFertilized.label>
+  <!-- EN: A fertilized island squiddle egg. If all goes well, it should hatch into a baby island squiddle. It can be eaten raw, but it's much better cooked. -->
+  <EggIslandSquiddleFertilized.description>A fertilized island squiddle egg. If all goes well, it should hatch into a baby island squiddle. It can be eaten raw, but it's much better cooked.</EggIslandSquiddleFertilized.description>
+  <!-- EN: island squiddle egg (unfert.) -->
+  <EggIslandSquiddleUnFertilized.label>island squiddle egg (unfert.)</EggIslandSquiddleUnFertilized.label>
+  <!-- EN: An unfertilized island squiddle egg. It can be eaten raw, but it's much better cooked. -->
+  <EggIslandSquiddleUnFertilized.description>An unfertilized island squiddle egg. It can be eaten raw, but it's much better cooked.</EggIslandSquiddleUnFertilized.description>
+  <!-- EN: mega squiddle egg (fert.) -->
+  <EggMegaSquiddleFertilized.label>mega squiddle egg (fert.)</EggMegaSquiddleFertilized.label>
+  <!-- EN: A fertilized mega squiddle egg. If all goes well, it should hatch into a baby mega squiddle. It can be eaten raw, but it's much better cooked. -->
+  <EggMegaSquiddleFertilized.description>A fertilized mega squiddle egg. If all goes well, it should hatch into a baby mega squiddle. It can be eaten raw, but it's much better cooked.</EggMegaSquiddleFertilized.description>
+  <!-- EN: mega squiddle egg (unfert.) -->
+  <EggMegaSquiddleUnFertilized.label>mega squiddle egg (unfert.)</EggMegaSquiddleUnFertilized.label>
+  <!-- EN: An unfertilized mega squiddle egg. It can be eaten raw, but it's much better cooked. -->
+  <EggMegaSquiddleUnFertilized.description>An unfertilized mega squiddle egg. It can be eaten raw, but it's much better cooked.</EggMegaSquiddleUnFertilized.description>
+  <!-- EN: mycotic squiddle egg (fert.) -->
+  <EggMycoticSquiddleFertilized.label>mycotic squiddle egg (fert.)</EggMycoticSquiddleFertilized.label>
+  <!-- EN: A fertilized mycotic squiddle egg. If all goes well, it should hatch into a baby mycotic squiddle. It can be eaten raw, but it's much better cooked. -->
+  <EggMycoticSquiddleFertilized.description>A fertilized mycotic squiddle egg. If all goes well, it should hatch into a baby mycotic squiddle. It can be eaten raw, but it's much better cooked.</EggMycoticSquiddleFertilized.description>
+  <!-- EN: mycotic squiddle egg (unfert.) -->
+  <EggMycoticSquiddleUnFertilized.label>mycotic squiddle egg (unfert.)</EggMycoticSquiddleUnFertilized.label>
+  <!-- EN: An unfertilized mycotic squiddle egg. It can be eaten raw, but it's much better cooked. -->
+  <EggMycoticSquiddleUnFertilized.description>An unfertilized mycotic squiddle egg. It can be eaten raw, but it's much better cooked.</EggMycoticSquiddleUnFertilized.description>
+  <!-- EN: polar squiddle egg (fert.) -->
+  <EggPolarSquiddleFertilized.label>polar squiddle egg (fert.)</EggPolarSquiddleFertilized.label>
+  <!-- EN: A fertilized polar squiddle egg. If all goes well, it should hatch into a baby polar squiddle. It can be eaten raw, but it's much better cooked. -->
+  <EggPolarSquiddleFertilized.description>A fertilized polar squiddle egg. If all goes well, it should hatch into a baby polar squiddle. It can be eaten raw, but it's much better cooked.</EggPolarSquiddleFertilized.description>
+  <!-- EN: polar squiddle egg (unfert.) -->
+  <EggPolarSquiddleUnFertilized.label>polar squiddle egg (unfert.)</EggPolarSquiddleUnFertilized.label>
+  <!-- EN: An unfertilized polar squiddle egg. It can be eaten raw, but it's much better cooked. -->
+  <EggPolarSquiddleUnFertilized.description>An unfertilized polar squiddle egg. It can be eaten raw, but it's much better cooked.</EggPolarSquiddleUnFertilized.description>
+  <!-- EN: shadow squiddle egg (fert.) -->
+  <EggShadowSquiddleFertilized.label>shadow squiddle egg (fert.)</EggShadowSquiddleFertilized.label>
+  <!-- EN: A fertilized shadow squiddle egg. If all goes well, it should hatch into a baby shadow squiddle. It can be eaten raw, but it's much better cooked. -->
+  <EggShadowSquiddleFertilized.description>A fertilized shadow squiddle egg. If all goes well, it should hatch into a baby shadow squiddle. It can be eaten raw, but it's much better cooked.</EggShadowSquiddleFertilized.description>
+  <!-- EN: shadow squiddle egg (unfert.) -->
+  <EggShadowSquiddleUnFertilized.label>shadow squiddle egg (unfert.)</EggShadowSquiddleUnFertilized.label>
+  <!-- EN: An unfertilized shadow squiddle egg. It can be eaten raw, but it's much better cooked. -->
+  <EggShadowSquiddleUnFertilized.description>An unfertilized shadow squiddle egg. It can be eaten raw, but it's much better cooked.</EggShadowSquiddleUnFertilized.description>
+  <!-- EN: squiddle egg (fert.) -->
+  <EggSquiddleFertilized.label>squiddle egg (fert.)</EggSquiddleFertilized.label>
+  <!-- EN: A fertilized squiddle egg. If all goes well, it should hatch into a baby squiddle. It can be eaten raw, but it's much better cooked. -->
+  <EggSquiddleFertilized.description>A fertilized squiddle egg. If all goes well, it should hatch into a baby squiddle. It can be eaten raw, but it's much better cooked.</EggSquiddleFertilized.description>
+  <!-- EN: squiddle egg (unfert.) -->
+  <EggSquiddleUnFertilized.label>squiddle egg (unfert.)</EggSquiddleUnFertilized.label>
+  <!-- EN: An unfertilized squiddle egg. It can be eaten raw, but it's much better cooked. -->
+  <EggSquiddleUnFertilized.description>An unfertilized squiddle egg. It can be eaten raw, but it's much better cooked.</EggSquiddleUnFertilized.description>
+  <!-- EN: squiddle leather -->
+  <Leather_Squiddle.label>squiddle leather</Leather_Squiddle.label>
+  <!-- EN: Tanned, dried, scraped skin. A good traditional material for making clothes and bags. -->
+  <Leather_Squiddle.description>Tanned, dried, scraped skin. A good traditional material for making clothes and bags.</Leather_Squiddle.description>
+  <!-- EN: squiddle ink -->
+  <SquiddleInk.label>squiddle ink</SquiddleInk.label>
+  <!-- EN: Ink from a Squiddle -->
+  <SquiddleInk.description>Ink from a Squiddle</SquiddleInk.description>
+</LanguageData>

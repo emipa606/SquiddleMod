@@ -1,0 +1,44 @@
+ManifestFileVersion: 0
+CRC: 318620227
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ce0416ea12db8dd32605b04f14bf350f
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2612ac43db082a73502ee80f2eceb73f
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: ce0416ea12db8dd32605b04f14bf350f
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Data/Mlie.SquiddleMod/Textures/Things/Pawn/Animal/MycoticSquiddle/MycoticSquiddle_north.png
+- Assets/Data/Mlie.SquiddleMod/Textures/Things/Item/InkTea/InkTea_b.png
+- Assets/Data/Mlie.SquiddleMod/Textures/Things/Pawn/Animal/MycoticSquiddle/MycoticSquiddle_south.png
+- Assets/Data/Mlie.SquiddleMod/Textures/Things/Pawn/Animal/Squiddle/Squiddle_south.png
+- Assets/Data/Mlie.SquiddleMod/Textures/Things/Pawn/Animal/CaveSquiddle/CaveSquiddle_south.png
+- Assets/Data/Mlie.SquiddleMod/Textures/Things/Pawn/Animal/CaveSquiddle/CaveSquiddle_north.png
+- Assets/Data/Mlie.SquiddleMod/Textures/Things/Pawn/Animal/IslandSquiddle/IslandSquiddle_south.png
+- Assets/Data/Mlie.SquiddleMod/Textures/Things/Pawn/Animal/CaveSquiddle/CaveSquiddle_east.png
+- Assets/Data/Mlie.SquiddleMod/Textures/Things/Item/InkTea/InkTea_a.png
+- Assets/Data/Mlie.SquiddleMod/Textures/Things/Pawn/Animal/PolarSquiddle/PolarSquiddle_south.png
+- Assets/Data/Mlie.SquiddleMod/Textures/Things/Pawn/Animal/ShadowSquiddle/ShadowSquiddle_east.png
+- Assets/Data/Mlie.SquiddleMod/Textures/Things/Pawn/Animal/MycoticSquiddle/MycoticSquiddle_east.png
+- Assets/Data/Mlie.SquiddleMod/Textures/Things/Pawn/Animal/IslandSquiddle/IslandSquiddle_east.png
+- Assets/Data/Mlie.SquiddleMod/Textures/Things/Pawn/Animal/PolarSquiddle/PolarSquiddle_east.png
+- Assets/Data/Mlie.SquiddleMod/Textures/Things/Item/InkTea/InkTea_c.png
+- Assets/Data/Mlie.SquiddleMod/Textures/Things/Pawn/Animal/MegaSquiddle/MegaSquiddle_north.png
+- Assets/Data/Mlie.SquiddleMod/Textures/Things/Pawn/Animal/PolarSquiddle/PolarSquiddle_north.png
+- Assets/Data/Mlie.SquiddleMod/Textures/Things/Item/squiddle_ink.png
+- Assets/Data/Mlie.SquiddleMod/Textures/Things/Pawn/Animal/Squiddle/Squiddle_north.png
+- Assets/Data/Mlie.SquiddleMod/Textures/Things/Pawn/Animal/MegaSquiddle/MegaSquiddle_east.png
+- Assets/Data/Mlie.SquiddleMod/Textures/Things/Pawn/Animal/MegaSquiddle/MegaSquiddle_south.png
+- Assets/Data/Mlie.SquiddleMod/Textures/Things/Pawn/Animal/Squiddle/Squiddle_east.png
+- Assets/Data/Mlie.SquiddleMod/Textures/Things/Pawn/Animal/ShadowSquiddle/ShadowSquiddle_north.png
+- Assets/Data/Mlie.SquiddleMod/Textures/Things/Pawn/Animal/ShadowSquiddle/ShadowSquiddle_south.png
+- Assets/Data/Mlie.SquiddleMod/Textures/Things/Pawn/Animal/IslandSquiddle/IslandSquiddle_north.png
+Dependencies: []

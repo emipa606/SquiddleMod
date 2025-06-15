@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: ink tea -->
+  <InkTeaHigh.label>ink tea</InkTeaHigh.label>
+  <!-- EN: Ink tea immunity to Gut Worms. This only blocks new diseases; it does nothing for those who are already affected, even if their disease is dormant. -->
+  <InkTeaHigh.description>Ink tea immunity to Gut Worms. This only blocks new diseases; it does nothing for those who are already affected, even if their disease is dormant.</InkTeaHigh.description>
+</LanguageData>

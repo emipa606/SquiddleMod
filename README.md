@@ -1,4 +1,4 @@
-# SquiddleMod
+# [Squiddle Mod (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2382021844)
 
 ![Image](https://i.imgur.com/buuPQel.png)
 
@@ -20,15 +20,14 @@ https://github.com/JabJabJab/RimWorldMods_Squiddle
 
 
 
-- Added support for https://steamcommunity.com/sharedfiles/filedetails/?id=2381741432]Animals Forage
-- Added support for https://steamcommunity.com/sharedfiles/filedetails/?id=2269731409][XND] Nocturnal Animals (Continued)
-- Added support for https://steamcommunity.com/sharedfiles/filedetails/?id=1841354677]Alpha Biomes
-- Added support for https://steamcommunity.com/sharedfiles/filedetails/?id=2038001322]Biomes! Islands
-- Added support for https://steamcommunity.com/sharedfiles/filedetails/?id=2259124387]CaveBiome
-- Added support for https://steamcommunity.com/sharedfiles/filedetails/?id=1430501911]Infectious Creatures
+- Added support for [Animals Forage](https://steamcommunity.com/sharedfiles/filedetails/?id=2381741432)
+- Added support for [[XND] Nocturnal Animals (Continued)](https://steamcommunity.com/sharedfiles/filedetails/?id=2269731409)
+- Added support for [Alpha Biomes](https://steamcommunity.com/sharedfiles/filedetails/?id=1841354677)
+- Added support for [Biomes! Islands](https://steamcommunity.com/sharedfiles/filedetails/?id=2038001322)
+- Added support for [CaveBiome](https://steamcommunity.com/sharedfiles/filedetails/?id=2259124387)
+- Added support for [Infectious Creatures](https://steamcommunity.com/sharedfiles/filedetails/?id=1430501911)
 
 ![Image](https://i.imgur.com/pufA0kM.png)
-
 	
 ![Image](https://i.imgur.com/Z4GOv8H.png)
 
@@ -40,13 +39,12 @@ Adds Squiddles To the Game
 
 -  See if the the error persists if you just have this mod and its requirements active.
 -  If not, try adding your other mods until it happens again.
--  Post your error-log using https://steamcommunity.com/workshop/filedetails/?id=818773962]HugsLib or the standalone https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404]Uploader and command Ctrl+F12
+-  Post your error-log using [HugsLib](https://steamcommunity.com/workshop/filedetails/?id=818773962) or the standalone [Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
 -  For best support, please use the Discord-channel for error-reporting.
 -  Do not report errors by making a discussion-thread, I get no notification of that.
 -  If you have the solution for a problem, please post it to the GitHub repository.
--  Use https://github.com/RimSort/RimSort/releases/latest]RimSort to sort your mods
+-  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
 
+ 
 
-
-https://steamcommunity.com/sharedfiles/filedetails/changelog/2382021844]![Image](https://img.shields.io/github/v/release/emipa606/SquiddleMod?label=latest%20version&style=plastic&color=9f1111&labelColor=black)
-
+[![Image](https://img.shields.io/github/v/release/emipa606/SquiddleMod?label=latest%20version&style=plastic&color=9f1111&labelColor=black)](https://steamcommunity.com/sharedfiles/filedetails/changelog/2382021844) | tags:  creatures,  variants
