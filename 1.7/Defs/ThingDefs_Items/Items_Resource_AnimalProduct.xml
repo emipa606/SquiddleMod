@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Defs>
+  <ThingDef ParentName="OrganicProductBase">
+    <defName>SquiddleInk</defName>
+    <label>squiddle ink</label>
+    <description>Ink from a Squiddle</description>
+    <graphicData>
+      <texPath>Things/Item/squiddle_ink</texPath>
+    </graphicData>
+    <socialPropernessMatters>true</socialPropernessMatters>
+    <statBases>
+      <MarketValue>3.1</MarketValue>
+      <Mass>0.045</Mass>
+      <MaxHitPoints>60</MaxHitPoints>
+      <Flammability>0.2</Flammability>
+      <Nutrition>0.01</Nutrition>
+      <FoodPoisonChanceFixedHuman>0.02</FoodPoisonChanceFixedHuman>
+    </statBases>
+    <ingestible>
+      <preferability>DesperateOnly</preferability>
+      <foodType>AnimalProduct, Fluid</foodType>
+    </ingestible>
+    <thingCategories>
+      <li>AnimalProductRaw</li>
+    </thingCategories>
+  </ThingDef>
+  <ThingDef ParentName="EggFertBase" Name="SquiddleEggs" Abstract="True">
+    <graphicData>
+      <texPath>Things/Item/Resource/AnimalProductRaw/EggOval</texPath>
+      <color>(225,225,225)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>25.0</MarketValue>
+    </statBases>
+  </ThingDef>
+  <ThingDef ParentName="EggUnfertBase" Name="SquiddleEggsUnfert" Abstract="True">
+    <graphicData>
+      <texPath>Things/Item/Resource/AnimalProductRaw/EggOval</texPath>
+      <color>(225,225,225)</color>
+    </graphicData>
+    <statBases>
+      <MarketValue>25.0</MarketValue>
+    </statBases>
+  </ThingDef>
+  <ThingDef ParentName="SquiddleEggs">
+    <defName>EggSquiddleFertilized</defName>
+    <label>squiddle egg (fert.)</label>
+    <description>A fertilized squiddle egg. If all goes well, it should hatch into a baby squiddle. It can be eaten raw, but it's much better cooked.</description>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>3.5</hatcherDaystoHatch>
+        <hatcherPawn>Squiddle</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="SquiddleEggsUnfert">
+    <defName>EggSquiddleUnFertilized</defName>
+    <label>squiddle egg (unfert.)</label>
+    <description>An unfertilized squiddle egg. It can be eaten raw, but it's much better cooked.</description>
+  </ThingDef>
+  <ThingDef ParentName="SquiddleEggs">
+    <defName>EggMycoticSquiddleFertilized</defName>
+    <label>mycotic squiddle egg (fert.)</label>
+    <description>A fertilized mycotic squiddle egg. If all goes well, it should hatch into a baby mycotic squiddle. It can be eaten raw, but it's much better cooked.</description>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>3.5</hatcherDaystoHatch>
+        <hatcherPawn>MycoticSquiddle</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="SquiddleEggsUnfert">
+    <defName>EggMycoticSquiddleUnFertilized</defName>
+    <label>mycotic squiddle egg (unfert.)</label>
+    <description>An unfertilized mycotic squiddle egg. It can be eaten raw, but it's much better cooked.</description>
+  </ThingDef>
+  <ThingDef ParentName="SquiddleEggs">
+    <defName>EggPolarSquiddleFertilized</defName>
+    <label>polar squiddle egg (fert.)</label>
+    <description>A fertilized polar squiddle egg. If all goes well, it should hatch into a baby polar squiddle. It can be eaten raw, but it's much better cooked.</description>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>3.5</hatcherDaystoHatch>
+        <hatcherPawn>PolarSquiddle</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="SquiddleEggsUnfert">
+    <defName>EggPolarSquiddleUnFertilized</defName>
+    <label>polar squiddle egg (unfert.)</label>
+    <description>An unfertilized polar squiddle egg. It can be eaten raw, but it's much better cooked.</description>
+  </ThingDef>
+  <ThingDef ParentName="SquiddleEggs">
+    <defName>EggShadowSquiddleFertilized</defName>
+    <label>shadow squiddle egg (fert.)</label>
+    <description>A fertilized shadow squiddle egg. If all goes well, it should hatch into a baby shadow squiddle. It can be eaten raw, but it's much better cooked.</description>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>3.5</hatcherDaystoHatch>
+        <hatcherPawn>ShadowSquiddle</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="SquiddleEggsUnfert">
+    <defName>EggShadowSquiddleUnFertilized</defName>
+    <label>shadow squiddle egg (unfert.)</label>
+    <description>An unfertilized shadow squiddle egg. It can be eaten raw, but it's much better cooked.</description>
+  </ThingDef>
+  <ThingDef ParentName="SquiddleEggs">
+    <defName>EggIslandSquiddleFertilized</defName>
+    <label>island squiddle egg (fert.)</label>
+    <description>A fertilized island squiddle egg. If all goes well, it should hatch into a baby island squiddle. It can be eaten raw, but it's much better cooked.</description>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>3.5</hatcherDaystoHatch>
+        <hatcherPawn>IslandSquiddle</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="SquiddleEggsUnfert">
+    <defName>EggIslandSquiddleUnFertilized</defName>
+    <label>island squiddle egg (unfert.)</label>
+    <description>An unfertilized island squiddle egg. It can be eaten raw, but it's much better cooked.</description>
+  </ThingDef>
+  <ThingDef ParentName="SquiddleEggs">
+    <defName>EggMegaSquiddleFertilized</defName>
+    <label>mega squiddle egg (fert.)</label>
+    <description>A fertilized mega squiddle egg. If all goes well, it should hatch into a baby mega squiddle. It can be eaten raw, but it's much better cooked.</description>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>3.5</hatcherDaystoHatch>
+        <hatcherPawn>MegaSquiddle</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="SquiddleEggsUnfert">
+    <defName>EggMegaSquiddleUnFertilized</defName>
+    <label>mega squiddle egg (unfert.)</label>
+    <description>An unfertilized mega squiddle egg. It can be eaten raw, but it's much better cooked.</description>
+  </ThingDef>
+  <ThingDef ParentName="SquiddleEggs">
+    <defName>EggCaveSquiddleFertilized</defName>
+    <label>cave squiddle egg (fert.)</label>
+    <description>A fertilized cave squiddle egg. If all goes well, it should hatch into a baby cave squiddle. It can be eaten raw, but it's much better cooked.</description>
+    <comps>
+      <li Class="CompProperties_Hatcher">
+        <hatcherDaystoHatch>3.5</hatcherDaystoHatch>
+        <hatcherPawn>CaveSquiddle</hatcherPawn>
+      </li>
+    </comps>
+  </ThingDef>
+  <ThingDef ParentName="SquiddleEggsUnfert">
+    <defName>EggCaveSquiddleUnFertilized</defName>
+    <label>cave squiddle egg (unfert.)</label>
+    <description>An unfertilized cave squiddle egg. It can be eaten raw, but it's much better cooked.</description>
+  </ThingDef>
+  <ThingDef ParentName="LeatherBase">
+    <defName>Leather_Squiddle</defName>
+    <label>squiddle leather</label>
+    <graphicData>
+      <color>(20,20,20)</color>
+    </graphicData>
+    <stuffProps>
+      <color>(20,20,20)</color>
+      <commonality>0.075</commonality>
+    </stuffProps>
+  </ThingDef>
+</Defs>
